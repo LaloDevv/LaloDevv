@@ -1,5 +1,5 @@
 # Hola, mi nombre es Gonzalo 👋
-![https://github.com/LaloDevv](https://img.icons8.com/color/48/300/github)
+![https://github.com/LaloDevv](https://img.icons8.com/color/48/200/github)
 
 ## <b>Tecnologías</b>
 
