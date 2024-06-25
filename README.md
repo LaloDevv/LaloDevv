@@ -1,5 +1,5 @@
 # Hola, mi nombre es Gonzalo 👋
-![https://github.com/LaloDevv]
+[https://github.com/LaloDevv]
 
 ## <b>Tecnologías</b>
 
