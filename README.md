@@ -18,7 +18,7 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
 
 Aquí verás reposotorios de alguno de los miniprojectos o cosas interesantes que he realizado en mi primer curso de DAM.
 
-[![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/pacman-terminal?label=pacman%20terminal%20daw%20&style=social)]([https://github.com/DiscoDurodeRoer/tareas-dam-daw-e-learning](https://github.com/LaloDevv/PACMAN-TERMINAL))
+[![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/pacman-terminal?label=Pacman%20Terminal%20Java%20&style=social)](https://github.com/LaloDevv/PACMAN-TERMINAL)
 
 
 <!--
