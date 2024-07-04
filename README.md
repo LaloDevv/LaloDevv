@@ -14,8 +14,8 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
    <img title="MySQL" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
    <img title="C++" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
    <img title="MongoDB" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongo-db.png"/>   
-   <img title="Git" alt="MongoDB" src="https://img.icons8.com/color/git/48"/> 
-   <img title="GitHub" alt="MongoDB" src="https://img.icons8.com/color/github/48"/> 
+   <img title="Git" alt="MongoDB" src="https://img.icons8.com/color/48/git"/> 
+   <img title="GitHub" alt="MongoDB" src="https://img.icons8.com/color/48/github"/> 
 </p>
 
 ## <b>Mini proyectos de 1º de DAM</b>
