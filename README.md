@@ -7,9 +7,8 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
 
 ## <b>Tecnologías</b>
 
-<p align="left">
+<p align="left" padding=3px>
    <img title="Java" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
-   <br>
    <img title="HTML5" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img title="MySQL" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
