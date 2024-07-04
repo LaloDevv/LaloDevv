@@ -8,7 +8,7 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
 ## <b>Tecnologías</b>
 
 <p align="left">
-   <h2>·Java</h2>
+   <p>·Java</p>
    <img title="Java" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
    <img title="HTML5" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
