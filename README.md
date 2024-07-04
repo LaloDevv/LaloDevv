@@ -1,5 +1,5 @@
 # Hola, mi nombre es Gonzalo 👋
-![https://github.com/LaloDevv](https://img.icons8.com/color/48/200/github)
+
 ![https://github.com/LaloDevv](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en Sevilla.
