@@ -7,7 +7,7 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
 
 ## <b>Tecnologías</b>
 
-<p align="left" padding="10px">
+<p align="left">
    <img title="Java" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
    <img title="HTML5" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -23,6 +23,7 @@ Aquí verás reposotorios de alguno de los miniprojectos o cosas interesantes qu
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/pacman-terminal?label=Pacman%20Terminal%20Java%20&style=social)](https://github.com/LaloDevv/PACMAN-TERMINAL)
 [![CIFRADO CESAR](https://img.shields.io/github/stars/LaloDevv/CIFRADO-CESAR?label=CIFRADO%20CESAR%20&style=social)](https://github.com/LaloDevv/cesar-encryption)
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/RETOS-SEMANALES-MOURE?label=RETOS%20SEMANALES%20MOUREDEV%20&style=social)](https://github.com/LaloDevv/Retos-semanales-Moure)
+<br>
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/TETRIS-terminal?label=TETRIS%20Terminal%20&style=social)](https://github.com/LaloDevv/Tetris-for-Terminal)
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/FESAC-FITNESS-APP?label=FESAC%20FITNESS%20APP%20&style=social)](https://github.com/LaloDevv/FESAC-FITNESS-APP)
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/FIND-A-PAIR?label=FIND%20A%20PAIR%20&style=social)](https://github.com/LaloDevv/Find-a-pair)
