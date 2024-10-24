@@ -20,7 +20,7 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
 
 ## <b>Mini proyectos de 1º de DAM</b>
 
-Aquí verás reposotorios de alguno de los miniprojectos o cosas interesantes que he realizado en mi primer curso de DAM.
+Aquí verás reposotorios de alguno de los miniprojectos o cosas interesantes que he ido realizando durante el curso de DAM.
 
 [![PACMAN TERMINAL](https://img.shields.io/github/stars/LaloDevv/pacman-terminal?label=Pacman%20Terminal%20Java%20&style=social)](https://github.com/LaloDevv/PACMAN-TERMINAL)
 [![CIFRADO CESAR](https://img.shields.io/github/stars/LaloDevv/CIFRADO-CESAR?label=CIFRADO%20CESAR%20&style=social)](https://github.com/LaloDevv/cesar-encryption)
