@@ -16,7 +16,8 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
    <img title="MongoDB" alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongo-db.png"/>   
    <img title="Git" alt="Git" src="https://img.icons8.com/color/48/git"/> 
    <img title="GitHub" alt="GitHub" src="https://img.icons8.com/color/48/github"/> 
-   <img title="GitHub" alt="React" src="https://img.icons8.com/?size=50&id=123603&format=png&color=000000"/> 
+   <img title="GitHub" alt="React" src="https://img.icons8.com/?size=50&id=123603&format=png&color=000000"/>
+   <img title="GitHub" alt="React" src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css"/> 
 </p>
 
 ## <b>Mini proyectos de 1º de DAM</b>
