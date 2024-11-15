@@ -17,7 +17,8 @@ Estudiante del ciclo superior de Desarrollo de Aplicaciones Multiplataforma en S
    <img title="Git" alt="Git" src="https://img.icons8.com/color/48/git"/> 
    <img title="GitHub" alt="GitHub" src="https://img.icons8.com/color/48/github"/> 
    <img title="GitHub" alt="React" src="https://img.icons8.com/?size=50&id=123603&format=png&color=000000"/>
-   <img title="GitHub" alt="React" src="https://img.icons8.com/?size=50&id=x7XMNGh2vdqA&format=png&color=000000"/> 
+   <img title="GitHub" alt="Tailwind" src="https://img.icons8.com/?size=50&id=x7XMNGh2vdqA&format=png&color=000000"/>
+   <img title="GitHub" alt="Python" src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
 </p>
 
 ## <b>Mini proyectos de 1º de DAM</b>
